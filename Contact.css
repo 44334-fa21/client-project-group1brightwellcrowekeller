@@ -8,6 +8,40 @@ font-size: 17px;
 border-radius: 5px;
 }
 
+
+
+
+
+
+
+
+
+
+
+.suicide {
+    padding-right: 100px;
+}
+
+.mental {
+    padding-right: 50px;
+}
+
+.eating {
+    text-align: center;
+}
+
+.anxiety {
+    padding-left: 50px;
+}
+
+.depression {
+    padding-left: 100px;
+}
+
+.resources {
+    text-align: center;
+}
+
 .clarinda {
     float: right;
     padding: 100px;
