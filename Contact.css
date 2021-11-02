@@ -18,7 +18,7 @@ border-radius: 5px;
 
 
 
-.suicide {
+.suicideline {
     padding-right: 100px;
 }
 
@@ -42,25 +42,31 @@ border-radius: 5px;
     text-align: center;
 }
 
+
+.contact {
+    text-align: center;
+}
+
+
 .clarinda {
     float: right;
-    padding: 100px;
-    padding-top: 400px;
+    padding-right: 300px;
+    padding-top: 500px;
 }
 
 .shenandoah {
-    float: left;
-    padding: 100px;
-    padding-top: 400px;
+    padding-left: 550px;
+    padding-top: 100px;
 }
 
 .redoak {
     padding-top: 100px;
-    padding-right: 300px;
+    padding-left: 300px;
+    padding-bottom: 0px;
 }
 
 .supportline {
-    float: right;
     padding-top: 0px;
-    padding-right: 100px;
+    padding-left: 550px;
+    padding-bottom: 100px;
 }
