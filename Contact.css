@@ -28,6 +28,16 @@ border-radius: 5px;
 
 
 
+.service {
+    padding-right: 500px;
+}
+
+.right {
+    float: right;
+    padding: 0px;
+
+}
+
 .aboutus {
     text-align: center;
     padding-left: 100px;
