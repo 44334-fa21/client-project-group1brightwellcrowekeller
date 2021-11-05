@@ -38,6 +38,11 @@ border-radius: 5px;
 
 }
 
+.longtext {
+    float: right;
+    text-align: right;
+}
+
 .aboutus {
     text-align: center;
     padding-left: 100px;
