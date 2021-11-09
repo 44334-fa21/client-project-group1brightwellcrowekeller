@@ -18,6 +18,7 @@ header { background-color: #2e2b14 ;
 }
 
 header h1 { padding-left: 200px;
+	text-sizing: 20px;
  }
 
 header span { font-style: italic;
