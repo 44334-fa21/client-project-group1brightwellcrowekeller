@@ -1,11 +1,15 @@
 .header {
-      display: inline-block;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      /*display: inline-block;*/
       text-align: center;
-      padding: 14px;
+      /*padding: 14px;*/
+      padding-bottom: 15px;
       text-decoration: none;
       font-size: 17px;
-      padding-right: 200px;
-      padding-left: 200px;
+      /*padding-right: 200px;
+      padding-left: 200px;*/
       background: #ffffff;
       font-size:20px;
       border-top-width: thick;
@@ -36,32 +40,90 @@ h8 {font-family: arial;
 p {font-family: arial}
 
 
-main {padding-left: 50px;
-      padding-right: 50px;
+main {/*padding-left: 50px;
+    padding-right: 50px;*/
     border-right: 10px;
-  border-left: 10px;
-border-color: #4EAEE2}
+    border-left: 10px;
+    border-color: #4EAEE2;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fotorama {
+    /*position: relative*/;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+    left: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+
+
+
+.green {
+    background-color: #90ee90;
+}
+
+.green h4 {
+    color: whitesmoke;
+}
+
+.green h5 {
+    color: slategray;
+}
+
+.blue h5{
+    color: slategray;
+}
+
+
+.blue {
+    background-color: powderblue;
+    
+}
+
 
 .service {
     padding-right: 500px;
+    padding-left: 50px;
 }
 
 .right {
     float: right;
-    padding: 0px;
-
+    padding-right: 50px;
 }
 
 .longtext {
     float: right;
     text-align: right;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 200px;
 }
+
+.image1 {
+    padding-top: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+
+
 
 .aboutus {
     text-align: center;
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 50px;
+}
+
+.aboutImage {
+    align-content: center;
 }
 
 
@@ -98,22 +160,23 @@ border-color: #4EAEE2}
 .clarinda {
     float: right;
     padding-right: 300px;
-    padding-top: 500px;
+    padding-top: 350px;
 }
 
 .shenandoah {
     padding-left: 550px;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .redoak {
-    padding-top: 100px;
+    float: left;
+    padding-top: 0px;
     padding-left: 300px;
     padding-bottom: 0px;
 }
 
 .supportline {
-    padding-top: 0px;
+    padding-top: 300px;
     padding-left: 550px;
     padding-bottom: 100px;
 }
