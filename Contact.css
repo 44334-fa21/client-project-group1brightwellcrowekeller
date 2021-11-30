@@ -85,7 +85,7 @@ main {/*padding-left: 50px;
     color: slategray;
 }
 
-.blue h5{
+.blue h5 {
     color: slategray;
 }
 
@@ -165,25 +165,26 @@ main {/*padding-left: 50px;
 }
 
 
-.clarinda {
+#clarinda {
     float: left;
     padding-left: 100px;
 }
 
-.shenandoah {
+#shenandoah {
     float: left;
     padding-left: 150px;
 }
     
-.redoak {
+#redoak {
     float: left;
     padding-left: 200px;
 }
 
-.supportline {
-    float: right;
+#supportline {
+    float: left;
+    padding-left: 125px;
 }
 footer {background-color:#3BD528;
       text-decoration-color: #ffffff;
-
-      margin: 20px;}
+      margin: 20px;
+      clear: both;}
