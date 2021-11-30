@@ -18,8 +18,14 @@
       border-bottom-style: solid;
       border-top-color: #3BD528;
       border-bottom-color: #3BD528;}
-    
 
+nav a {padding:5px;
+      text-decoration: none;
+      font-family: arial;
+          color: #4EAEE2;
+}
+li {font-family: arial;
+    color: #4EAEE2;}
 
 h1 {font-family: arial;
     color: #4EAEE2;}
