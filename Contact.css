@@ -174,7 +174,7 @@ main {/*padding-left: 50px;
     float: left;
     padding-left: 150px;
 }
-    
+
 #redoak {
     float: left;
     padding-left: 200px;
@@ -187,4 +187,6 @@ main {/*padding-left: 50px;
 footer {background-color:#3BD528;
       text-decoration-color: #ffffff;
       margin: 20px;
-      clear: both;}
+      clear: both;
+      padding: 5px;
+      text-align: center;}
