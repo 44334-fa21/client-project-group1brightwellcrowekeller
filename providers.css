@@ -27,7 +27,8 @@ header span { font-style: italic;
 			  text-align: center;
 			  display: block;
 }
-nav { float: left;
+
+nav { float: center;
 	  width: 150px;
 	  letter-spacing:0.1em;
 	  font-weight: bold;
@@ -82,7 +83,7 @@ h2 { color: #869dc7;
 	 	text-align: center;
 }
 
-figure {   float: right;
+figure {   float: center
 		   margin: 10px;
 		   padding: 5px;
 		   background-color: #FFF;
