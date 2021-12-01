@@ -135,24 +135,24 @@ main {/*padding-left: 50px;
 }
 
 
-.suicideline {
-    padding-right: 100px;
-}
-
-.mental {
-    padding-right: 50px;
-}
-
-.eating {
+#suicideline {
     text-align: center;
 }
 
-.anxiety {
-    padding-left: 50px;
+#mental {
+    text-align: center;
 }
 
-.depression {
-    padding-left: 100px;
+#eating {
+    text-align: center;
+}
+
+#anxiety {
+    text-align: center;
+}
+
+#depression {
+    text-align: center;
 }
 
 .resources {
