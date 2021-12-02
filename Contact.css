@@ -75,6 +75,8 @@ main {/*padding-left: 50px;
 
 .green {
     background-color: #90ee90;
+    padding-bottom: 60px;
+    padding-top: 10px;
 }
 
 .green h4 {
@@ -92,6 +94,8 @@ main {/*padding-left: 50px;
 
 .blue {
     background-color: powderblue;
+    padding-bottom: 60px;
+    padding-top: 10px;
 
 }
 
@@ -104,15 +108,10 @@ main {/*padding-left: 50px;
 .right {
     float: right;
     padding-right: 50px;
+    text-align: right;
+    padding-bottom: 20
 }
 
-.longtext {
-    float: right;
-    text-align: right;
-    padding-bottom: 50px;
-    padding-right: 50px;
-    padding-left: 200px;
-}
 
 .image1 {
     padding-top: 100px;
@@ -129,6 +128,12 @@ main {/*padding-left: 50px;
     padding-right: 100px;
     padding-bottom: 50px;
 }
+
+.therapist {
+    text-align: center;
+    float: inherit;
+}
+
 
 .aboutImage {
     align-content: center;
@@ -156,6 +161,10 @@ main {/*padding-left: 50px;
 }
 
 .resources {
+    text-align: center;
+}
+
+.services {
     text-align: center;
 }
 

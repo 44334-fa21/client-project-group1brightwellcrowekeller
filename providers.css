@@ -120,8 +120,6 @@ audio {margin: auto;}
 #galpic {position: absolute; left: 350px; top: 30px;}
 #gallery a:hover span {position: absolute; top: 45px; left: 370px; text-align: center; opacity: 1; color: #000;}
 
-
-
 /* Create Media Queries */
 header, main, nav, footer, figure, figcaption { display: block; }
 @media only screen and (max-width: 1024px) {
