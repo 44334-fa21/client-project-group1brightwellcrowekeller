@@ -213,7 +213,7 @@ footer {background-color:#3BD528;
       /* Create Media Queries */
       header, main, nav, footer, figure, figcaption { display: block; }
       @media only screen and (max-width: 1024px) {
-      	body { margin: 0; background-color: #869dc7;}
+      	body { margin: 0; background-color: #ffffff;}
       	#wrapper { width: auto; margin: 0;}
       	main { margin-left: 0; }
       	nav { float: none;
@@ -227,7 +227,6 @@ footer {background-color:#3BD528;
       }
       @media only screen and (max-width: 768px) {
       	#wrapper { min-width: 0; }
-      	header { background-image: url(lighthousemini.jpg); }
       	header h1 { padding-left: 0; }
       	h1, h2 { font-size: 100%; }
       	span { font-size: 80%; }
